@@ -1,4 +1,4 @@
-# Gloria Store
+# Gloria Store (old portfolio project)
 
 ## Introduction
 
